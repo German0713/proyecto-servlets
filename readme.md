@@ -30,7 +30,7 @@ Este es un módulo de autenticación web desarrollado con **Java Servlets, JSP y
 ## 🖥️ **Instalación y Uso**
 ### 🔹 **1. Clonar el repositorio**  
 ```bash
-git clone https://github.com/tuusuario/proyecto-servlets.git
+git clone https://github.com/German0713/proyecto-servlets.git
 
 
 🔹 2. Configurar la base de datos MySQL
